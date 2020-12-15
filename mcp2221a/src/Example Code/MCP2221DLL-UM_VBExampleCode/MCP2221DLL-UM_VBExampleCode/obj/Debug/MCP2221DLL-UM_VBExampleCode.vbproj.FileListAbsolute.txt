@@ -1,0 +1,8 @@
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\obj\Debug\MCP2221DLL_UM_VBExampleCode.Resources.resources
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\obj\Debug\MCP2221DLL-UM_VBExampleCode.vbproj.GenerateResource.Cache
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\bin\Debug\MCP2221DLL-UM_VBExampleCode.exe
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\bin\Debug\MCP2221DLL-UM_VBExampleCode.pdb
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\bin\Debug\MCP2221DLL-UM_VBExampleCode.xml
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\obj\Debug\MCP2221DLL-UM_VBExampleCode.exe
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\obj\Debug\MCP2221DLL-UM_VBExampleCode.xml
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\Unmanaged\MCP2221DLL-UM_VBExampleCode\MCP2221DLL-UM_VBExampleCode\obj\Debug\MCP2221DLL-UM_VBExampleCode.pdb

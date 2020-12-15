@@ -1,0 +1,9 @@
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\obj\Debug\MCP2221DLL_M_VBExampleCode.Resources.resources
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\obj\Debug\MCP2221DLL-M_VBExampleCode.vbproj.GenerateResource.Cache
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\bin\Debug\MCP2221DLL-M_VBExampleCode.exe
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\bin\Debug\MCP2221DLL-M_VBExampleCode.pdb
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\bin\Debug\MCP2221DLL-M_VBExampleCode.xml
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\bin\Debug\MCP2221DLL-M-dotNet4.dll
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\obj\Debug\MCP2221DLL-M_VBExampleCode.exe
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\obj\Debug\MCP2221DLL-M_VBExampleCode.xml
+D:\Microchip\Projects\Interface\MCP2221\Software\DLL\Documentation\Example Code\MCP2221DLL-M_VBExampleCode\MCP2221DLL-M_VBExampleCode\obj\Debug\MCP2221DLL-M_VBExampleCode.pdb
